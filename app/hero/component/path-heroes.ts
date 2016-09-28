@@ -1,0 +1,1 @@
+export const PATHCOMPONENTE= "app/hero/component/";
